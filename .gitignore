@@ -1,0 +1,10 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+2025-26-2_endterm_assignment_poseidon.md
+# Virtual environments
+.venv

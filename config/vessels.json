@@ -1,0 +1,152 @@
+[
+  {
+    "id": "vessel_rotterdam_001",
+    "location": "POINT(4.4792 51.9225)",
+    "metadata": {
+      "flag_state": "Netherlands",
+      "home_port": "Rotterdam",
+      "vessel_class": "container",
+      "commissioned_date": "2021-04-12"
+    }
+  },
+  {
+    "id": "vessel_rotterdam_002",
+    "location": "POINT(4.4792 51.9225)",
+    "metadata": {
+      "flag_state": "Netherlands",
+      "home_port": "Rotterdam",
+      "vessel_class": "tanker",
+      "commissioned_date": "2018-09-05"
+    }
+  },
+  {
+    "id": "vessel_amsterdam_001",
+    "location": "POINT(4.8952 52.3702)",
+    "metadata": {
+      "flag_state": "Netherlands",
+      "home_port": "Amsterdam",
+      "vessel_class": "bulk_carrier",
+      "commissioned_date": "2020-11-20"
+    }
+  },
+  {
+    "id": "vessel_amsterdam_002",
+    "location": "POINT(4.8952 52.3702)",
+    "metadata": {
+      "flag_state": "Netherlands",
+      "home_port": "Amsterdam",
+      "vessel_class": "ro_ro",
+      "commissioned_date": "2022-01-15"
+    }
+  },
+  {
+    "id": "vessel_hamburg_001",
+    "location": "POINT(9.9937 53.5511)",
+    "metadata": {
+      "flag_state": "Germany",
+      "home_port": "Hamburg",
+      "vessel_class": "container",
+      "commissioned_date": "2019-06-30"
+    }
+  },
+  {
+    "id": "vessel_hamburg_002",
+    "location": "POINT(9.9937 53.5511)",
+    "metadata": {
+      "flag_state": "Germany",
+      "home_port": "Hamburg",
+      "vessel_class": "bulk_carrier",
+      "commissioned_date": "2015-03-12"
+    }
+  },
+  {
+    "id": "vessel_bremerhaven_001",
+    "location": "POINT(8.5809 53.5396)",
+    "metadata": {
+      "flag_state": "Germany",
+      "home_port": "Bremerhaven",
+      "vessel_class": "ro_ro",
+      "commissioned_date": "2023-08-22"
+    }
+  },
+  {
+    "id": "vessel_bremerhaven_002",
+    "location": "POINT(8.5809 53.5396)",
+    "metadata": {
+      "flag_state": "Germany",
+      "home_port": "Bremerhaven",
+      "vessel_class": "tanker",
+      "commissioned_date": "2017-10-08"
+    }
+  },
+  {
+    "id": "vessel_gdansk_001",
+    "location": "POINT(18.6466 54.3520)",
+    "metadata": {
+      "flag_state": "Poland",
+      "home_port": "Gdansk",
+      "vessel_class": "container",
+      "commissioned_date": "2020-05-18"
+    }
+  },
+  {
+    "id": "vessel_gdansk_002",
+    "location": "POINT(18.6466 54.3520)",
+    "metadata": {
+      "flag_state": "Poland",
+      "home_port": "Gdansk",
+      "vessel_class": "bulk_carrier",
+      "commissioned_date": "2016-12-04"
+    }
+  },
+  {
+    "id": "vessel_gdynia_001",
+    "location": "POINT(18.5305 54.5189)",
+    "metadata": {
+      "flag_state": "Poland",
+      "home_port": "Gdynia",
+      "vessel_class": "ro_ro",
+      "commissioned_date": "2021-09-11"
+    }
+  },
+  {
+    "id": "vessel_gdynia_002",
+    "location": "POINT(18.5305 54.5189)",
+    "metadata": {
+      "flag_state": "Poland",
+      "home_port": "Gdynia",
+      "vessel_class": "tanker",
+      "commissioned_date": "2014-07-25"
+    }
+  },
+  {
+    "id": "vessel_copenhagen_001",
+    "location": "POINT(12.5683 55.6761)",
+    "metadata": {
+      "flag_state": "Denmark",
+      "home_port": "Copenhagen",
+      "vessel_class": "container",
+      "commissioned_date": "2022-03-03"
+    }
+  },
+  {
+    "id": "vessel_copenhagen_002",
+    "location": "POINT(12.5683 55.6761)",
+    "metadata": {
+      "flag_state": "Denmark",
+      "home_port": "Copenhagen",
+      "vessel_class": "ro_ro",
+      "commissioned_date": "2019-11-28"
+    }
+  },
+  {
+    "id": "vessel_esbjerg_001",
+    "location": "POINT(8.4519 55.4765)",
+    "metadata": {
+      "flag_state": "Denmark",
+      "home_port": "Esbjerg",
+      "vessel_class": "tanker",
+      "commissioned_date": "2018-02-14"
+    }
+  }
+]
